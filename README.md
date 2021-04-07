@@ -1,11 +1,8 @@
-# PaymentSystemUnitpay
-Платёжная система для осуществления онлайн платежей через интернет-кассу Unitpay. Предназначена для российских интернет-магазинов.
+# ~ Payment System Unitpay ~
 
-# ~ Payment System ~
+![screen1](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/main/img/Unitpay.png)
 
-![screen1](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/master/img/Unitpay.png)
-
-**Краткое описание:** Платёжная система для осуществления онлайн платежей через интернет-кассу с выдачей товаров.
+**Краткое описание:** Платёжная система для осуществления онлайн платежей через интернет-кассу Unitpay. Предназначена для российских интернет-магазинов.
 
 **Категория:** Платёжные системы.
 
@@ -32,7 +29,7 @@
 -----------------------------------
 
 Пример генерации платежа и направление клиента на онлайн-кассу для оплаты.
-![screen2](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/master/img/PaymentCreator.png)
+![screen2](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/main/img/PaymentCreator.png)
 
 -----------------------------------
 
