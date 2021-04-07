@@ -30,7 +30,7 @@
 
 Пример генерации платежа и направление клиента на онлайн-кассу для оплаты.
 ![screen2](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/main/img/PaymentCreator.png)
-![screen2](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/main/img/paing.png)
+![screen2](https://github.com/LexaCoronos/PaymentSystemUnitpay/blob/main/img/paying.png)
 
 -----------------------------------
 
